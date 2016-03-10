@@ -1,0 +1,4 @@
+#replace ?? with the directory name
+
+export GOPATH=$HOME/repos/fundamentals/go/??
+export PATH=$HOME/repos/fundamentals/go/??/bin:$PATH
