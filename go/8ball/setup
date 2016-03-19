@@ -1,2 +1,0 @@
-export GOPATH=$HOME/repos/fundamentals/go/8ball
-export PATH=$HOME/repos/fundamentals/go/8ball/bin:$PATH
